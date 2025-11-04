@@ -16,6 +16,6 @@ Exploring fundamental math and physics concepts behind Cryo-EM image formation.
 
 ### How to Run
 ```bash
-git clone https://github.com/<yourusername>/cryoem-basics.git
+git clone https://github.com/Geekygecko20/cryoem-basics.git
 cd cryoem-basics
 jupyter notebook notebooks/fourier_transform.ipynb
